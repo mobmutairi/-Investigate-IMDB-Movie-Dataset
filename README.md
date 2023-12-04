@@ -1,7 +1,7 @@
 # -Investigate-IMDB-Movie-Dataset
 ## by Mohammed Barakah
 
-I possess a notebook dedicated to analyzing an IMDb dataset. Within it, I meticulously conducted data cleaning and wrangling processes, delved into extensive visualization, and sought to extract meaningful insights. Ultimately, I arrived at several conclusions:
+In this notebook dedicated to the analysis of an IMDb dataset, I conducted data cleaning and wrangling procedures, extensively utilized visualization techniques, and endeavored to extract insights. Ultimately, the following conclusions were drawn:
 
 A discernible correlation exists between a movie's popularity and its budget. Higher budgets tend to correspond to greater popularity.
 
