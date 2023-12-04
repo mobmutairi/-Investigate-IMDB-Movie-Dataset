@@ -1,4 +1,4 @@
-# -Investigate-IMDB-Movie-Dataset
+# Investigate IMDB Movie Dataset
 ## by Mohammed Barakah
 
 In this notebook dedicated to the analysis of an IMDb dataset, I conducted data cleaning and wrangling procedures, extensively utilized visualization techniques, and endeavored to extract insights. Ultimately, the following conclusions were drawn:
